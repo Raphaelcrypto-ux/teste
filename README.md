@@ -1,5 +1,3 @@
-[README.md](https://github.com/user-attachments/files/32264707/README.md)
-
 ## Projeto — Formulário Acadêmico
 Projeto desenvolvido para a disciplina de Programação, com o objetivo de praticar conceitos básicos de HTML e CSS.
 
